@@ -1,10 +1,14 @@
 # Auction-Dapp
 
-## METAMASK 
-To install...
+This is the era of decentralisation. Auction-Dapp is a decentralised application build with ethereum in the backbone to make online transactions more transparent. Most of the functionalities has been automated with the power of smart contracts that mitigates the scope for fraudery.
+
+## Prerequisites
+
+### metamask 
+To install
 https://metamask.io/
 
-## TRUFFLE
+### truffle
 `npm install`
 
 output from the command `$truffle migrate`
@@ -31,7 +35,7 @@ Deploy the smart contract by executing this command inside the Truffle project.
 `truffle migrate`
 
 
-## REACT 
+### react 
 ```
 cd auction_dapp
 npm install
